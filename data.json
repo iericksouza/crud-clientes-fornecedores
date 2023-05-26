@@ -1,0 +1,54 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "name": "Felipe Saraiva",
+      "address": "Rua Orestes Faustino Bonini, 309",
+      "phonenumber": "11974687209",
+      "birth": "09/03/1998",
+      "cpf": "24821267327"
+    },
+    {
+      "id": 2,
+      "name": "Sosthenes José Santos Salles",
+      "address": "Rua Coronel Fiori Marcelo Amanteá, 39",
+      "phonenumber": "11953529865",
+      "birth": "18/11/1987",
+      "cpf": "42874174318"
+    },
+    {
+      "id": 3,
+      "name": "Diego de Souza Quirino",
+      "address": "Rua Olindo Mazurchi, 58",
+      "phonenumber": "11997234021",
+      "birth": "14/10/1993",
+      "cpf": "36183549265"
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": 1,
+      "name": "Mario Sergio Valerio",
+      "address": "Rua Inácio Silveira Moraes, 93",
+      "phonenumber": "11998659231",
+      "birth": "26/04/1994",
+      "cpf": "36183549265"
+    },
+    {
+      "id": 2,
+      "name": "Cláudio de Souza",
+      "address": "Rua Ribeirão Preto, 24",
+      "phonenumber": "11997845129",
+      "birth": "19/05/1990",
+      "cpf": "49830216574"
+    },
+    {
+      "id": 3,
+      "name": "Yann Del Pino Rolim",
+      "address": "Rua Votorantim, 17",
+      "phonenumber": "11985827036",
+      "birth": "15/03/1995",
+      "cpf": "38456298569"
+       }
+  ]
+}
